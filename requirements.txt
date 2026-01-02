@@ -2,3 +2,5 @@ google-cloud-bigquery
 requests
 pandas
 python-dateutil
+pendulum
+dbt-bigquery
