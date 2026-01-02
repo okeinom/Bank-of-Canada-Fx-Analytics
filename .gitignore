@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+
+# dbt
+dbt/target/
+dbt/logs/
+
+# GCP / auth
+.env
+.env.*
+*.json
+
+# OS
+.DS_Store
