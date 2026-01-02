@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_boc_fx_observations
+    columns:
+      - name: series_id
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["FXUSDCAD", "FXEURCAD", "FXGBPCAD"]
+      - name: observation_date
+        tests:
+          - not_null
+      - name: value
+        tests:
+          - not_null
+     
