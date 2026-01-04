@@ -76,6 +76,7 @@ Derived analytical features:
 These features support trend analysis, volatility analysis, and visualization.
 
 ## Dashboard
+### (https://lookerstudio.google.com/reporting/88fcf556-9391-4523-a514-e06c66d2652d/page/fyFkF)
 ![FX Analytics Dashboard](docs/images/dashboard.jpeg)
 
 ---
