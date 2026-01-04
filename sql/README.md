@@ -1,0 +1,1 @@
+This folder contains ad-hoc and exploratory SQL queries.
